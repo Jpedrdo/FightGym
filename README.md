@@ -10,7 +10,7 @@
   <img src="src/assets/screenContact.png" width="30%">
 </p>
 
-<h2 align="center">Using TypeScript, React and styled with Tailwind, this is FightGym. A gym website with all the information you need to get in shape.</h2>
+<h2 align="center">Using TypeScript, React and styled with Tailwind, this is FightGym. A gym website with all information you need to get in shape.</h2>
 
 <br />
 
